@@ -23,11 +23,11 @@ public class SmartTv {
         --volume;
     }
 
-    public void canalSeguinte() {
+    public void trocarSeguinte() {
         ++canal;
     }
 
-    public int trocaAleatoria(int canal) {
+    public int trocarAleatoriamente(int canal) {
         return this.canal = canal;
     }
 

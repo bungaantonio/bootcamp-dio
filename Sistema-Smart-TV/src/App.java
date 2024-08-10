@@ -14,15 +14,15 @@ public class App {
         System.out.println("Volume: " + smartTv.volume);
         smartTv.aumentarVolume();
         smartTv.aumentarVolume();
-        smartTv.canalSeguinte();
+        smartTv.trocarSeguinte();
         System.out.println("Canal atual: " + smartTv.canal);
         smartTv.aumentarVolume();
         smartTv.aumentarVolume();
-        smartTv.canalSeguinte();
+        smartTv.trocarSeguinte();
         System.out.println("Canal atual: " + smartTv.canal);
         System.out.println("Volume: " + smartTv.volume);
 
-        smartTv.trocaAleatoria(19);
+        smartTv.trocarAleatoriamente(19);
         System.out.println("Canal atual: " + smartTv.canal);
 
         smartTv.desligar();
