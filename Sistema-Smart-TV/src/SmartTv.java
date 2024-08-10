@@ -1,5 +1,14 @@
 /**
- * SmartTv
+ * <h1>Sistema SmartTv</h1>
+ * O sistema SmartTv realiza as operações básica de uma TV
+ * <p>
+ * <b>Note:</b> Leia a documentação desta classe com atenção para estar a par do
+ * seu funcionamento
+ * 
+ * @author bungadass
+ * @version 1.0
+ * @since 09/08/2024
+ * 
  */
 public class SmartTv {
 
